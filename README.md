@@ -1,5 +1,5 @@
 # 141.Program5
-C++ terminal-based battleship program
+C++ terminal-based battleship program that was created in July 2020
 Program5.cpp
 Scott Sikorski
 Battleship game program. Allows for the user to guess where the ships are.
